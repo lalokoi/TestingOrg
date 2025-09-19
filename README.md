@@ -140,6 +140,7 @@ Create classes for backend logic.
 3. Calls Weatherbit API using named credentials.
 4. Updates Weather_Info__c on orders.
 5. Copy from weatherService.cls.
+6. Postman collection to test : https://.postman.co/workspace/My-Workspace~80dda069-298e-44aa-8568-ab0a6c07b1da/collection/10083619-80ae8d01-3df0-4601-83fc-b2ace59edee2?action=share&creator=10083619
 
 ### 9. Apex Triggers
 
